@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Mehmed Shehov</p>
+        <p>Mehmed Shehov Docker-React task</p>
         <a
           className="App-link"
           href="https://reactjs.org"
